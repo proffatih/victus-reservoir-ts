@@ -1,0 +1,8 @@
+{
+  "mackey_glass_tau17_per_step": 0.005856189931631336,
+  "mackey_glass_rosenstein_crosscheck": 0.007019971412201573,
+  "lorenz_x_per_step": 0.050124398958715614,
+  "lorenz_theoretical_per_time": 0.9056,
+  "lorenz_dt": 0.02,
+  "lorenz_theoretical_per_step": 0.018112
+}
